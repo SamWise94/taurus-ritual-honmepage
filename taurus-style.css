@@ -1,0 +1,65 @@
+/* taurus-style.css */
+body {
+  margin: 0;
+  font-family: 'Georgia', serif;
+  background: linear-gradient(to bottom, #e8f5e9, #fce4ec);
+  color: #3e2723;
+}
+
+.header {
+  text-align: center;
+  background-color: #c8e6c9;
+  color: #4e342e;
+  padding: 1.5em;
+  border-bottom: 4px solid #81c784;
+}
+
+.subtitle {
+  font-size: 1.2em;
+  font-style: italic;
+}
+
+.daily {
+  padding: 2em;
+  background-color: #f1f8e9;
+}
+
+.taurus-grid {
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+  margin-top: 1em;
+}
+
+.ritual-card {
+  background-color: #fff;
+  border: 2px solid #a5d6a7;
+  padding: 1em;
+  width: 120px;
+  text-align: center;
+  border-radius: 8px;
+}
+
+.rituals {
+  padding: 2em;
+  background-color: #fce4ec;
+}
+
+.rituals ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.rituals li {
+  margin: 1em 0;
+  background: #ffffff;
+  padding: 0.8em;
+  border-left: 6px solid #66bb6a;
+}
+
+.footer {
+  text-align: center;
+  padding: 1.5em;
+  background-color: #dcedc8;
+  font-size: 0.9em;
+}
