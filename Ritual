@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Taurus Ritual Homepage</title>
+  <link rel="stylesheet" href="taurus-style.css">
+</head>
+<body>
+  <header class="header">
+    <h1>♉ Taurus Ritual Portal</h1>
+    <p class="subtitle">Slow beauty. Sacred rhythm. Venus blessings.</p>
+  </header>
+
+  <section class="daily">
+    <h2>🔮 Daily Guidance</h2>
+    <div class="taurus-grid">
+      <div class="ritual-card">Planet: Venus</div>
+      <div class="ritual-card">Lucky Number: 6</div>
+      <div class="ritual-card">Color: Green</div>
+    </div>
+  </section>
+
+  <section class="rituals">
+    <h2>🌸 Ritual Practice</h2>
+    <ul>
+      <li>💆 Self-care with 6 sensual elements (scent, sound, touch, taste...)</li>
+      <li>🕯️ Decorate space with emeralds, poppies, and soft textures</li>
+      <li>🌿 Slow ritual movement, grounding breathwork</li>
+    </ul>
+  </section>
+
+  <footer class="footer">
+    <p>Rooted in Earth. Guided by Venus ✨</p>
+  </footer>
+</body>
+</html>
